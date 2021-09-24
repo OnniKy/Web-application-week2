@@ -1,0 +1,33 @@
+body {
+  font-family: Garamond;
+}
+
+.menu-layout {
+  text-align: middle;
+  max-width: 740px;
+  margin: auto;
+  width: 100%;
+}
+
+.header {
+  font-style: italic;
+}
+#menu-table {
+  text-align: left;
+  background-color: #f2f2f2;
+}
+
+table,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th {
+  background-color: beige;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.even {
+  background-color: gainsboro;
+}
